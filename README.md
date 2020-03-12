@@ -31,7 +31,7 @@ y de la manera más limpia sin perjudicar los recursos.
 Los estilos CSS son como se muestran en el siguiente ejemplo:
 
 <pre>
-    <!--
+    
     table.qr
     {
       border-collapse: collapse;
@@ -50,7 +50,7 @@ Los estilos CSS son como se muestran en el siguiente ejemplo:
     {
       background: #000999;
     }
-    -->
+    
 
 </pre>
 
