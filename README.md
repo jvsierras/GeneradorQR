@@ -83,14 +83,14 @@ ________________________________________
 7%    15%   25%   30%
 ```
 
-  <p>
- **NOTA:** Este código se aplicado en la generación de Facturas en México para el SAT en su representación impresa.
-  </p>
-  <p>
+  
+ ***NOTA:*** Este código se aplicado en la generación de Facturas en México para el SAT en su representación impresa.  
  Generando más de 1,000 imágenes en segundos.
-  </p>
   
   
+    <p></p>
+      <p></p>
+        <p></p>
   
   ## GNU GENERAL PUBLIC LICENSE
   <p></p>
