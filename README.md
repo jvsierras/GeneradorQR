@@ -88,9 +88,7 @@ ________________________________________
  Generando más de 1,000 imágenes en segundos.
   
   
-    <p></p>
-      <p></p>
-        <p></p>
+
   
   ## GNU GENERAL PUBLIC LICENSE
   <p>The GNU General Public License is a free, copyleft license for software and other kinds of works.</p>
