@@ -74,8 +74,38 @@ Generando una imagen PNG :
 
 Para todos los casos anteriores, el código para correccion de errores son los siguientes:
 
-L
-M
-Q
-H
+```
+L     M     Q     H
+________________________________________
+*           *      
+*     *            
+________________________________________
+7%    15%   25%   30%
+```
+
+  <p>
+   
+  </p>
+  
+  
+  ##GNU GENERAL PUBLIC LICENSE
+  <p></p>
+  
+  Created by: 	**Hector Manuel Alonso Ortiz**
+  <p></p>
+  
+  eMail: 		**[alonso.hector@gmail.com](mailto:alonso.hector@gmail.com)**
+  <p></p>
+  
+  Github: 		**https://github.com/alonsohector/MyZPL**
+  <p></p>
+  
+
+
+
+
+
+
+
+
 
