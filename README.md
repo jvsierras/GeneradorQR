@@ -84,7 +84,10 @@ ________________________________________
 ```
 
   <p>
-   
+ **NOTA:** Este código se aplicado en la generación de Facturas en México para el SAT en su representación impresa.
+  </p>
+  <p>
+ Generando más de 1,000 imágenes en segundos.
   </p>
   
   
