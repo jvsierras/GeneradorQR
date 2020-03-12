@@ -93,6 +93,9 @@ ________________________________________
         <p></p>
   
   ## GNU GENERAL PUBLIC LICENSE
+  <p>The GNU General Public License is a free, copyleft license for software and other kinds of works.</p>
+  
+  <p></p>
   <p></p>
   
   Created by: 	**Hector Manuel Alonso Ortiz**
@@ -101,7 +104,7 @@ ________________________________________
   eMail: 		**[alonso.hector@gmail.com](mailto:alonso.hector@gmail.com)**
   <p></p>
   
-  Github: 		**https://github.com/alonsohector/MyZPL**
+
   <p></p>
   
 
