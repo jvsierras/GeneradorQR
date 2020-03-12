@@ -57,10 +57,10 @@ Los estilos CSS son como se muestran en el siguiente ejemplo:
 y simplemente mandar llamar <b>displayHTML()</b>
 
 ```
-			<?php
-				$qrcode = new QRcode(utf8_encode($msg), $err);
-				$qrcode->displayHTML();
-			?>
+	<?php
+		$qrcode = new QRcode(utf8_encode($msg), $err);
+		$qrcode->displayHTML();
+	?>
 
 ```
 
@@ -68,6 +68,6 @@ y simplemente mandar llamar <b>displayHTML()</b>
 Generando una imagen PNG :
 </p>
 
-<pre>
+```
 <img src="./image.php?msg=<?php echo urlencode($msg); ?>&amp;err=<?php echo urlencode($err); ?>" alt="generation qr-code" style="border: solid 1px black;">
-</pre>
+```
