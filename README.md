@@ -1,13 +1,16 @@
 # QRcode - Rápido y Limpio
 
-Generar codigo QR de forma rapida y limpia, con opciones para usar en PDF con FPDF, PNG y HTML. (para altos volúmenes)
+Generar codigo QR de forma rápida y limpia, con opciones para usar en PDF con FPDF, PNG y HTML. 
+<p>
+El objetivo es poder ser usado para altos volúmenes.
+</p>
 
-##RÁPIDO Y LIMPIO:
+## RÁPIDO Y LIMPIO:
 
 Esta clase permite ser utilizada en proyectos donde se tienen que generar miles de codigos QR en el mejor tiempo
 y de la manera más limpia sin perjudicar los recursos.
 
-##OPCIONES DE VISUALIZACIÓN:
+## OPCIONES DE VISUALIZACIÓN:
 
    -  Permite visualizar el código QR en un pdf a través de FPDF.
    -  Permite mostrar el código QR en formato HTML, para usar con un estilo CSS.
@@ -19,7 +22,7 @@ y de la manera más limpia sin perjudicar los recursos.
   <p align="center">
       <h2>Cómo usar QRcode - rápido y limpio</h2>
   </p> 
-<hl>
+</hl>
   
 <p>
   Generando una tabla HTML, claro respetando formatos CSS
@@ -50,7 +53,9 @@ Los estilos CSS son como se muestran en el siguiente ejemplo:
     -->
 
 </pre>
+
 y simplemente mandar llamar <b>displayHTML()</b>
+
 <pre>
 			<?php
 				$qrcode = new QRcode(utf8_encode($msg), $err);
