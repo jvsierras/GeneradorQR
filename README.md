@@ -71,3 +71,11 @@ Generando una imagen PNG :
 ```
 <img src="./image.php?msg=<?php echo urlencode($msg); ?>&amp;err=<?php echo urlencode($err); ?>" alt="generation qr-code" style="border: solid 1px black;">
 ```
+
+Para todos los casos anteriores, el código para correccion de errores son los siguientes:
+
+L
+M
+Q
+H
+
