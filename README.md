@@ -88,7 +88,8 @@ ________________________________________
   </p>
   
   
-  ##GNU GENERAL PUBLIC LICENSE
+  
+  ## GNU GENERAL PUBLIC LICENSE
   <p></p>
   
   Created by: 	**Hector Manuel Alonso Ortiz**
