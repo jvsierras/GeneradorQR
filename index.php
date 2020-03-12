@@ -6,16 +6,16 @@
  * 
  * Generar codigo QR de forma rapida y limpia, con opciones para usar en PDF con FPDF, PNG y HTML.
  * 
- * RÁPIDO Y LIMPIO:
+ * RÃPIDO Y LIMPIO:
  * 
  * Esta clase permite ser utilizada en proyectos donde se tienen que generar miles de codigos QR en el mejor tiempo
- * y de la manera más limpia sin perjudicar los recursos.
+ * y de la manera mÃ¡s limpia sin perjudicar los recursos.
  * 
- * OPCIONES DE VISUALIZACIÓN:
+ * OPCIONES DE VISUALIZACIÃ“N:
  * 
- *    -  Permite visualizar el código QR en un pdf a través de FPDF.
- *    -  Permite mostrar el código QR en formato HTML, para usar con un estilo CSS.
- *    -  Permite obtener una imagen PNG con opciones de compresión.
+ *    -  Permite visualizar el cÃ³digo QR en un pdf a travÃ©s de FPDF.
+ *    -  Permite mostrar el cÃ³digo QR en formato HTML, para usar con un estilo CSS.
+ *    -  Permite obtener una imagen PNG con opciones de compresiÃ³n.
  *    -  Puede ser llamado desde plantillas HTML con variables GET
  * 
  * GNU GENERAL PUBLIC LICENSE
@@ -81,7 +81,7 @@ table.qr td.on
 					<option value="Q" <?php echo $err=='Q' ? 'selected' : ''; ?>>Q</option>
 					<option value="H" <?php echo $err=='H' ? 'selected' : ''; ?>>H</option>
 				</select> | 
-				<input type="submit" value="Afficher">
+				<input type="submit" value="Enviar">
 			</form>
 			<hr>
 			<br>
